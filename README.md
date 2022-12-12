@@ -6,5 +6,5 @@ This is where I dump everything that has code, working or not :rofl:
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anything
 - 📫 How to reach me: [@francisceril](https://twitter.com/francisceril)
-- 👨‍💻 &nbsp;Read more about my projects at [francisceril.me](https://www.francisceril.me)
+- 👨‍💻 &nbsp;Read more about my projects at [francisceril.com](https://www.francisceril.github.io)
 - ⚡ Fun fact: I'm so lazy that I would script all work where possible 😄
